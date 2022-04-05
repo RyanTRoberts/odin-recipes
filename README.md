@@ -1,1 +1,1 @@
-# odin-recipes
+this is a simple webpage design to show the recipe for my favourite food and will be accomplished using basic html and css skills # odin-recipes
